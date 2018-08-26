@@ -1,0 +1,10 @@
+.myCss h1,
+.myCss p,
+.myCss button #button {
+    color: black;
+}
+
+
+body.myCss .list li {
+    color: black;
+}
