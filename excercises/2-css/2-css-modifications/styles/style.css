@@ -1,0 +1,23 @@
+li, a {
+    color: green;
+}
+
+.link {
+    color: white;
+}
+
+.link {
+    color: red;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+    color: purple;
+}
+
+button {
+    color: #008000;
+}
+
+body {
+    color: red;
+}
